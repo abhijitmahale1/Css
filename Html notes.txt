@@ -1,0 +1,160 @@
+2/08/2021
+**Feature of Html:-
+1)It is very easy and simple Language
+2)It is very easy make an effective presentation
+3)It is markup language.it flexible to design web pages
+4)It facilattes programes to add link on web pages
+5)it is platform independent
+6)it facilates the programer to add graphc and music,audio
+
+**Html Tags
+It is use like keyword
+
+**Unclosed Tags:-
+<br> It is used to break the line
+<hr> It is used to put  Line across on web page.It stand for Horizontal Rule
+ **Heading Tag:-
+<h1>
+<h2>
+<h3>
+<h4>
+<h5>
+<h6>
+
+**Html Paragraph:-<p></p>
+it is Used For Formatting the Web pages
+**Bold Tag:-(<b></b>)
+Bold the Text
+**Html <strong > tag is Logical tag same as bold 
+
+**Html Italic text
+<i></i>
+**Html Underline
+<u></u>
+**Html mark Tag:-
+Highlight the text
+
+**Html Paragraph:-<p></p>
+one line code not 
+**Html Pre Tag:-it is used specify pre formatted texts
+as your contain same printed 
+
+**<sub>:-Subscript
+Used in chemical reaction Like H2So4
+
+**<sup>:-Superscript
+Used To Raise to Power
+
+**Html Anchor:-Two parts 1)Href 2)Target
+ Href   is Important 
+<a href="Demo.html>"</a> 
+
+<a href="Dem0.html" target="_blank"></a>
+3/08/2021
+**Html Table:-<Table</Table>:-It is used to display data in tabular form.There can many cloumn and row
+**<thead>:-Heading the Table ex:Empid Empname
+<tbody>:-
+**<tr></tr>:-Table Row
+<th></th>:- table head
+<td></td>:table data
+
+
+**Html image:- 
+Html img tag is used to display image on web page
+closing tags are not used in html image element.
+
+
+src :-It is a nessary attribute that describes the source or path of image
+
+alt:-the alt attribute defines an alternate text for the image.it cant be display
+
+
+
+Html List:-
+Type of List
+1) Ordered list
+2) Unordered List 
+3)Describption and defination tag
+
+
+1)Orderd List:-<ol></ol>tag is used
+In this All the list item are marked with number
+defalult value is  1,2,3
+Type =i
+
+
+2)Unordered List:-
+In this all item are marked with bullets
+<ul>tag is used
+type is 1)Circle
+2)disc
+3)square
+
+3)Description List or Defination List:
+<dl>tag define start the list
+<dt>tag define the term 
+<dd>tag  defines the term 
+
+4/8/2021
+**Html Form:-
+Html form is a section of a document which contain controls such text field password feild checkbox radio button,submit button menu
+
+It facilates user to enter data that to be sent to server for proceessing
+
+It required you want to collect data from user
+
+Html<input>
+It Create form field to take inut from user
+
+<input type="Text">
+8 type="text,email,password,number,checkbox,radio,file"
+
+<textarea>
+It is used to insert Multiple line text in a form
+the size of tag can be specify either using rows and clos attribute
+
+<textarea rows="" cols=""></textarea>
+
+
+<select >Tag:-
+It is used to create dropdown list with multiple option
+The <option>Element
+
+**Submit Button\
+It is used to add submit button on web page
+<input type="submit " value="submit">
+<button type ="Button">Reset</button>
+
+
+**<label>Tag:-
+It make the code parser user friendly
+if you click on label tag it focus on text control
+
+
+
+
+5/8/2021
+**Html Fieldset
+It is used to group the related of a form
+this element used to with <Legend>element
+provied caption to the gruoped element
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

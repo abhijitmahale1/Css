@@ -1,0 +1,59 @@
+*{
+   margin: 0;
+   padding: 0;
+ } 
+ 
+body{
+	  background:url(f3.jpg);
+	  background-position:center;
+	  background-size:cover;
+    }
+
+     .form-page{
+                 width:450px;
+                 box-shadow: 0 0 10px 0 #000;
+                 margin:100px auto;
+                 padding:50px 25px;
+	           } 				 
+			   
+	input{
+		   width:100%;
+		   height:40px;
+		   border-radius:30px;
+		   outline:none;
+		   padding:20px;
+		   
+		   
+	    }
+		
+    .input-group{
+		       margin:15px auto;
+	            		   
+	            }
+				
+	 
+		
+    input{
+		    text-align:center;
+            padding:10px 20px;
+            border:none;
+			background:disqut;
+			color: chocolate;
+			font-size:14px;
+            cursor:pointer;
+            border-radius:30px;
+	      }	
+		  h2{
+			  text-align:center;
+			  width:200px;
+			  box-shadow:0 0 10px 0 #000;
+			  margin:0 auto 30px;
+			  height:40px;
+			  padding-top:15px;
+			  border-radius:10px;
+			  background:bisque;
+		  } 
+            			
+		 
+		
+	
